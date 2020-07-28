@@ -1,0 +1,18 @@
+c:\users\el sokary\documents\visual studio 2013\Projects\WindowsFormcalculator\WindowsFormcalculator\bin\Debug\WindowsFormcalculator.exe.config
+c:\users\el sokary\documents\visual studio 2013\Projects\WindowsFormcalculator\WindowsFormcalculator\bin\Debug\WindowsFormcalculator.exe
+c:\users\el sokary\documents\visual studio 2013\Projects\WindowsFormcalculator\WindowsFormcalculator\bin\Debug\WindowsFormcalculator.pdb
+c:\users\el sokary\documents\visual studio 2013\Projects\WindowsFormcalculator\WindowsFormcalculator\obj\Debug\WindowsFormcalculator.csprojResolveAssemblyReference.cache
+c:\users\el sokary\documents\visual studio 2013\Projects\WindowsFormcalculator\WindowsFormcalculator\obj\Debug\WindowsFormcalculator.Form1.resources
+c:\users\el sokary\documents\visual studio 2013\Projects\WindowsFormcalculator\WindowsFormcalculator\obj\Debug\WindowsFormcalculator.Properties.Resources.resources
+c:\users\el sokary\documents\visual studio 2013\Projects\WindowsFormcalculator\WindowsFormcalculator\obj\Debug\WindowsFormcalculator.csproj.GenerateResource.Cache
+c:\users\el sokary\documents\visual studio 2013\Projects\WindowsFormcalculator\WindowsFormcalculator\obj\Debug\WindowsFormcalculator.exe
+c:\users\el sokary\documents\visual studio 2013\Projects\WindowsFormcalculator\WindowsFormcalculator\obj\Debug\WindowsFormcalculator.pdb
+F:\Projects before iti for visual stadio 2g\old program vs50g\WindowsFormcalculator\WindowsFormcalculator\bin\Debug\WindowsFormcalculator.exe.config
+F:\Projects before iti for visual stadio 2g\old program vs50g\WindowsFormcalculator\WindowsFormcalculator\bin\Debug\WindowsFormcalculator.exe
+F:\Projects before iti for visual stadio 2g\old program vs50g\WindowsFormcalculator\WindowsFormcalculator\bin\Debug\WindowsFormcalculator.pdb
+F:\Projects before iti for visual stadio 2g\old program vs50g\WindowsFormcalculator\WindowsFormcalculator\obj\Debug\WindowsFormcalculator.csprojAssemblyReference.cache
+F:\Projects before iti for visual stadio 2g\old program vs50g\WindowsFormcalculator\WindowsFormcalculator\obj\Debug\WindowsFormcalculator.Form1.resources
+F:\Projects before iti for visual stadio 2g\old program vs50g\WindowsFormcalculator\WindowsFormcalculator\obj\Debug\WindowsFormcalculator.Properties.Resources.resources
+F:\Projects before iti for visual stadio 2g\old program vs50g\WindowsFormcalculator\WindowsFormcalculator\obj\Debug\WindowsFormcalculator.csproj.GenerateResource.cache
+F:\Projects before iti for visual stadio 2g\old program vs50g\WindowsFormcalculator\WindowsFormcalculator\obj\Debug\WindowsFormcalculator.exe
+F:\Projects before iti for visual stadio 2g\old program vs50g\WindowsFormcalculator\WindowsFormcalculator\obj\Debug\WindowsFormcalculator.pdb
